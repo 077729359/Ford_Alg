@@ -1,0 +1,18 @@
+ Introduceti numarul de noduri si muchii:6 12
+ Introduceti muchiile (start, finish, ponderea):
+Muchia 1:1 3 5
+Muchia 2:1 5 1
+Muchia 3:1 6 20
+Muchia 4:2 5 2
+Muchia 5:2 6 1
+Muchia 6:3 4 4
+Muchia 7:3 5 7
+Muchia 8:5 6 1
+Muchia 9:4 6 2
+Muchia 10:2 4 6
+Muchia 11:3 6 3
+Muchia 12:1 2 3
+
+Introduce-ti nodul pana la care doriti sa aflati drumul minim: 4
+ Drumul minim de la nodul 1 la nodul 4:
+ 4 3 1
